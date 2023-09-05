@@ -387,7 +387,7 @@ export const projects = [
         "Travel with Pengi in his adventures world - collect coins, kill enemies and avoid obstacles in your way. " +
         "Strong emphasis on implementing object oriented design principles. " +
         "Written in C++ using the SFML library.",
-    image: "/images/pengi-adventures.jpg",
+    image: "/images/pengi.jpg",
     youtube: "https://www.youtube.com/embed/f2-abUgakw4",
     tags: [
       "C++",
