@@ -11,7 +11,8 @@ export const Bio = {
       "I completed an intensive 5-week Scale-Up Velocity Academy Program, to attain industry-level programming expertise. " +
       "I excel at problem-solving and possess a diverse skill set for tackling challenges.",
   github: "https://github.com/ranelbe",
-  resume: "https://docs.google.com/document/d/1ONR8eSS6OI6OpIRKr037RjW8HL-R8iXO/edit?usp=drive_link&ouid=107749776713030322238&rtpof=true&sd=true",
+
+  resume: "https://docs.google.com/document/d/1_rq5Hjw0QRvY-utr4-zrQyMjV_ScuZtI/edit?usp=drive_link&ouid=107749776713030322238&rtpof=true&sd=true",
   linkedin: "https://www.linkedin.com/in/ranelbe/",
 };
 
@@ -193,8 +194,8 @@ export const projects = [
     title: "PPTX Explainer",
     date: "",
     description:
-        "Server-Client system, incorporating SQLAlchemy for managing uploads and users, " +
-        "to process uploaded PowerPoint presentations using the OpenAI API and generate explanations for display. " +
+        "A Client-Server system, incorporating SQLAlchemy for upload and user data management, " +
+        "leverages the OpenAI API to process uploaded PowerPoint presentations and generate display-ready explanations. " +
         "It consists of three main components: " +
         "Server: a Flask-based web application that serves as an interface for users to upload their PPTX files. " +
         "Analyzer (pptx_explainer.py): Operating in the background, this service continuously monitors the database for pending uploads. Once an unprocessed upload is detected, it triggers the analysis procedure. " +
@@ -296,7 +297,7 @@ export const projects = [
       {
         name: "MosheNamdar",
         img: "https://avatars.githubusercontent.com/u/95622945?s=88&v=4",
-        github: "https://github.com/MosheNamdarr",
+        github: "https://github.com/MosheNamdar",
       },
       {
         name: "Saja Abu Maizar",
