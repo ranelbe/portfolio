@@ -12,7 +12,7 @@ export const Bio = {
       "I excel at problem-solving and possess a diverse skill set for tackling challenges.",
   github: "https://github.com/ranelbe",
 
-  resume: "https://drive.google.com/file/d/1rYnXUpwWnj5FN6eBlH-b0fDTmDDKXHNS/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1qkYtaQzUEKPLrSqlcrp2CWVajQu7AUVp/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ranelbe/",
 };
 
