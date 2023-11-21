@@ -7,7 +7,7 @@ export const Bio = {
     "Software Engineer",
   ],
   description:
-    "I'm a tech-savvy, auto-didact software developer and recent Computer Science graduate with a GPA of 95.7. " +
+    "I'm a tech-savvy, auto-didact software developer and recent Computer Science graduate with a GPA of 95.86. " +
       "I completed an intensive 5-week Scale-Up Velocity Academy Program, to attain industry-level programming expertise. " +
       "I excel at problem-solving and possess a diverse skill set for tackling challenges.",
   github: "https://github.com/ranelbe",
