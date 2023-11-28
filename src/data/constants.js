@@ -158,7 +158,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/C4E0BAQEuJw0RKhm2sA/company-logo_100_100/0/1636554507223?e=1701907200&v=beta&t=VwhnomKQL5D5vtC85n5n9P8SFJSoip2F9UBWK1A-9Oo",
+    img: "https://media.licdn.com/dms/image/D4D0BAQGFvdKBX-qv5Q/company-logo_200_200/0/1698509824082?e=1709164800&v=beta&t=Fo7osIR5JQCTzIlOJ-Mk0oP7Yssu8y_l-HuP5n0sMYc",
     role: "Network Administrator",
     company: "IDF",
     date: "2015-2018",
