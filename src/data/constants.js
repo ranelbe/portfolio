@@ -57,7 +57,7 @@ export const skills = [
       {
         name: "Express.js",
         image:
-            "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/express/express-original.svg",
+            "/logos/express-logo.svg",
       },
       {
         name: "Spring",
@@ -65,7 +65,7 @@ export const skills = [
       },
       {
         name: "Flask",
-        image: "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/flask/flask-original.svg",
+        image: "/logos/flask-logo.svg",
       },
       {
         name: "Postgresql",
@@ -73,7 +73,7 @@ export const skills = [
       },
       {
         name: "Sqlalchemy",
-        image: "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlalchemy/sqlalchemy-original.svg",
+        image: "/logos/sqlalchemy-logo.svg",
       },
     ],
   },
@@ -112,7 +112,7 @@ export const skills = [
       {
         name: "GitHub",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg",
+          "/logos/github-logo.svg",
       },
       {
         name: "Postman",
@@ -141,7 +141,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C4D0BAQGIFU0rc_aZ5g/company-logo_200_200/0/1578929180964?e=1701907200&v=beta&t=kXheBWgrwaCyFBFWkk5yxen6KNcbc2QRLthLoekCCHM",
+    img: "/logos/scaleup-logo.jpeg",
     role: "Excellenteam in Academia",
     company: "Scale-Up Velocity",
     date: "2023",
@@ -150,19 +150,22 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C510BAQHk1svbr5w5yQ/company-logo_100_100/0/1519865132052?e=1701907200&v=beta&t=WGMAkOcoM2BjZIxKe7UVOrLwb4vgCddAGRDhiE3J2TU",
+    img: "/logos/work-logo.jpeg",
     role: "Senior Department of Digital Technologies and Information",
     company: "Ministry of Construction and Housing",
     date: "2019-2020",
-    desc: "Responsible of supporting and managing over 1,200 users. Work in a closed government network.",
+    desc: "Responsible for supporting and managing over 1,200 users within a closed government network. " +
+        "My role involved network administration, user management, and OS maintenance.",
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/D4D0BAQGFvdKBX-qv5Q/company-logo_200_200/0/1698509824082?e=1709164800&v=beta&t=Fo7osIR5JQCTzIlOJ-Mk0oP7Yssu8y_l-HuP5n0sMYc",
+    img: "/logos/idf-logo.jpeg",
     role: "Network Administrator",
     company: "IDF",
     date: "2015-2018",
-    desc: "Accredited as a Network Administrator by the Teleprocessing Corps. Was in charge of the IT department and developed a network administration software that eased our day-to-day job.\n" +
+    desc: "Accredited as a Network Administrator by the Teleprocessing Corps. " +
+        "Was in charge of the IT department and developed a network " +
+        "administration software that eased our day-to-day job. " +
         "Brigadier General's Excellency Award.",
   },
 ];
@@ -170,21 +173,21 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C4E0BAQHCVO7S_p8nTA/company-logo_200_200/0/1519867068267?e=1701907200&v=beta&t=YGBm3EAGc-UpIW0LfSY-k6TKKmnXY_0m0TlsZWG53wc",
+    img: "/logos/hac-logo.jpeg",
     degree: "B.Sc in Computer Science ",
     school: "Hadassah Academic College",
     date: "2020-2023",
-    grade: "GPA: 95.7",
+    grade: "GPA: 95.86",
     desc: "Dean's Honorary Award for Academic Excellence.",
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/D4E0BAQEVDbjWN5wVMA/company-logo_200_200/0/1685724030405?e=1701907200&v=beta&t=svRxzVJCqmToAOba03FbaeB-7Jnbv6X1sw2_U-SjGA8",
+    img: "/logos/school-logo.jpeg",
     degree: "School",
     school: "Hartman High School",
     date: "2014",
     grade: "",
-    desc: "Majoring in computer science",
+    desc: "Majoring in computer science.",
   },
 ];
 
