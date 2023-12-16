@@ -23,7 +23,8 @@ const Navbar = () => {
       <NavbarContainer>
         <NavLogo to='/'>
           <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
-            <DiCssdeck size="3rem" /> <Span>Ranelbe</Span>
+            <img width="40em" src={"logos/logo-RB.svg"} alt={"logo"}/>
+            <Span>Ranelbe</Span>
           </a>
         </NavLogo>
         <MobileIcon>

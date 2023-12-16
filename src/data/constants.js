@@ -68,11 +68,19 @@ export const skills = [
         image: "/logos/flask-logo.svg",
       },
       {
-        name: "Postgresql",
+        name: "MySQL",
+        image: "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg",
+      },
+      {
+        name: "MongoDB",
+        image: "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original.svg",
+      },
+      {
+        name: "PostgreSQL",
         image: "https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg",
       },
       {
-        name: "Sqlalchemy",
+        name: "SQLAlchemy",
         image: "/logos/sqlalchemy-logo.svg",
       },
     ],
